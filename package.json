@@ -1,0 +1,36 @@
+{
+  "name": "ssf",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cookie-parser": "^1.4.4",
+    "express": "^4.17.1",
+    "express-handlebars": "^3.1.0",
+    "mysql": "^2.17.1"
+  },
+  "directories": {
+    "lib": "lib"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chukmunnlee/ssf_day08.git"
+  },
+  "bugs": {
+    "url": "https://github.com/chukmunnlee/ssf_day08/issues"
+  },
+  "homepage": "https://github.com/chukmunnlee/ssf_day08#readme",
+  "description": ""
+}
+
+
+
